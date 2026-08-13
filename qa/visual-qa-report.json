@@ -1,0 +1,71 @@
+{
+  "url": "http://127.0.0.1:4173/",
+  "viewports": {
+    "desktop": {
+      "httpStatus": 200,
+      "status": "complete",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "documentSize": [
+        1440,
+        6003
+      ],
+      "horizontalOverflow": 0,
+      "canvas": [
+        684,
+        912
+      ],
+      "canvasCenterPixel": [
+        21,
+        24,
+        21,
+        255
+      ],
+      "headings": [
+        "THE THINGAFTER AI.",
+        "FEEDTHE BEAST.",
+        "NOT AI.THE ALIBI.",
+        "MADE BYSOMEONE.",
+        "GET INBEFORE BJGETS HUNGRY."
+      ],
+      "fontsLoaded": "loaded",
+      "brokenImages": 0
+    },
+    "mobile": {
+      "httpStatus": 200,
+      "status": "complete",
+      "viewport": [
+        390,
+        844
+      ],
+      "documentSize": [
+        390,
+        7122
+      ],
+      "horizontalOverflow": 0,
+      "canvas": [
+        780,
+        1040
+      ],
+      "canvasCenterPixel": [
+        21,
+        23,
+        21,
+        255
+      ],
+      "headings": [
+        "THE THINGAFTER AI.",
+        "FEEDTHE BEAST.",
+        "NOT AI.THE ALIBI.",
+        "MADE BYSOMEONE.",
+        "GET INBEFORE BJGETS HUNGRY."
+      ],
+      "fontsLoaded": "loaded",
+      "brokenImages": 0
+    }
+  },
+  "consoleErrors": [],
+  "pageErrors": []
+}

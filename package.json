@@ -1,0 +1,16 @@
+{
+  "name": "bj-human-direction",
+  "private": true,
+  "version": "0.1.0",
+  "description": "BJ — a cultural anti-slop brand and Human Direction Mark prototype.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "vite": "latest"
+  }
+}
