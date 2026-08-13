@@ -1,0 +1,8 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+qa/*-full.png
+qa/*.png.png
+qa/latest-run.txt
+.DS_Store
